@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609411454 source:d:\c_basic\redo_fucntion_pointers\test_area\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1609385762 source:d:\c_basic\redo_fucntion_pointers\test_area\test2.c
+

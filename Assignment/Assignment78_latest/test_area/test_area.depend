@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618462400 source:c:\ntu\data structures\assignment78\test_area\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1618500816 source:d:\assignment78_latest\test_area\main.c
+	<stdio.h>
+	<stdlib.h>
+

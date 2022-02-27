@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613011192 source:d:\cz1107-data_structures\binarytree\remake_bylevel\main.c
+	<stdio.h>
+	<stdlib.h>
+

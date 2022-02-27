@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608886924 source:d:\c_basic\c_tutorial_redo\lab2_q1\main.c
+	<stdio.h>
+	<stdlib.h>
+

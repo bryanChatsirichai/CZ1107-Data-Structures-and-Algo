@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608804402 source:d:\c_basic\strings_redo\maxchartofront\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

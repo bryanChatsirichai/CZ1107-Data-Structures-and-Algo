@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614755583 source:d:\cz1107-data_structures\revision\selftest\sortstack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

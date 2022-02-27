@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608001915 source:d:\c_basic\udemy_lesson\variables_datatypes\basic data types\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

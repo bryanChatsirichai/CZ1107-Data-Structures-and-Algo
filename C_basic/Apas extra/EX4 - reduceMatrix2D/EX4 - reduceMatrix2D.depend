@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608560010 source:d:\c_basic\apas extra\ex4 - reducematrix2d\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1608559327 source:d:\c_basic\apas extra\ex4 - reducematrix2d\reduce.c
+

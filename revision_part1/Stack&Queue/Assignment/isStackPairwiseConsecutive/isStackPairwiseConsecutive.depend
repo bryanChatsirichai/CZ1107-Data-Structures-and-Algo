@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614564193 source:d:\cz1107-data_structures\revision\stack&queue\assignment\isstackpairwiseconsecutive\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

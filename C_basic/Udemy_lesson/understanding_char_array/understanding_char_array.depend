@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609228188 source:d:\c_basic\udemy_lesson\understanding_char_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

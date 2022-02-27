@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609685995 source:d:\c_basic\struct_redo\rectangle_practice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

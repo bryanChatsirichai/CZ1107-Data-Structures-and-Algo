@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608010515 source:d:\c_basic\udemy_lesson\variables_datatypes\format\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

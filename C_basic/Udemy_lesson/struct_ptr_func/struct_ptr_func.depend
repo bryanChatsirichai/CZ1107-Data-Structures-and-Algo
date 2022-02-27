@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609757747 source:d:\c_basic\udemy_lesson\struct_ptr_func\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609410322 source:d:\c_basic\udemy_lesson\dynamic_memory_lesson\main.c
+	<stdio.h>
+	<stdlib.h>
+

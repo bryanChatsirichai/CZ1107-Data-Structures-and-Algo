@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605495695 source:d:\c_basic\countsubstring\main.c
+	<stdio.h>
+	<string.h>
+

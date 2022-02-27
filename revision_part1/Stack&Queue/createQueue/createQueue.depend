@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614573058 source:d:\cz1107-data_structures\revision\stack&queue\createqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+

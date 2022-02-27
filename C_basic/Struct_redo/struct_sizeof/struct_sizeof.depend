@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609482935 source:d:\c_basic\struct_redo\struct_sizeof\main.c
+	<stdio.h>
+	<stdlib.h>
+

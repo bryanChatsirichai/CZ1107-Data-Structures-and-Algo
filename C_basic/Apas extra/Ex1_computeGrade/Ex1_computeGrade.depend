@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608524767 source:d:\c_basic\apas extra\ex1_computegrade\main.c
+	<stdio.h>
+	<stdlib.h>
+

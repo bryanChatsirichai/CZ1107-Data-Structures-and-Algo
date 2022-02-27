@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608736941 source:d:\c_basic\strings_redo\ciphertext\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

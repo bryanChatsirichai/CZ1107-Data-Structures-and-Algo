@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605288897 source:d:\c_basic\toyarea\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

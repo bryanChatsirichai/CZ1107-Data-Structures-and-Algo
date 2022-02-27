@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608535824 source:d:\c_basic\apas extra\ex3_numdigits\main.c
+	<stdio.h>
+	<stdlib.h>
+

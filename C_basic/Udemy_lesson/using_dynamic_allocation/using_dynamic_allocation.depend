@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609418246 source:d:\c_basic\udemy_lesson\using_dynamic_allocation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618928436 source:d:\cz1107-data_structures\chapter 5 revise\assignment\q2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

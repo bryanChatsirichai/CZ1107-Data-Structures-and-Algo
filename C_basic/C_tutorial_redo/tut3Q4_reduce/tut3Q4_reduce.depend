@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608965859 source:d:\c_basic\c_tutorial_redo\tut3q4_reduce\main.c
+	<stdio.h>
+	<stdlib.h>
+

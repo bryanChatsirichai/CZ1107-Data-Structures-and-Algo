@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618924586 source:d:\cz1107-data_structures\chapter 5 revise\lab\q2_xtra_evaluate_prefix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

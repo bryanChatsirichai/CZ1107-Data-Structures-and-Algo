@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608089859 source:d:\c_basic\neso-academy\auto_extern\other.c
+
+1608089669 source:d:\c_basic\neso-academy\auto_extern\main.c
+	<stdio.h>
+	<stdlib.h>
+

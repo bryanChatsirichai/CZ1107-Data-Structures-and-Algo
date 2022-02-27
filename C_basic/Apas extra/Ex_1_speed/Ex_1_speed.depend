@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608521139 source:d:\c_basic\apas extra\ex_1_speed\main.c
+	<stdio.h>
+	<stdlib.h>
+

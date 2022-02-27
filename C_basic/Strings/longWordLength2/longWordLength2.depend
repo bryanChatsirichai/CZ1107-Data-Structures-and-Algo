@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604579830 source:d:\c_basic\strings\longwordlength2\main.c
+	<stdio.h>
+	<string.h>
+

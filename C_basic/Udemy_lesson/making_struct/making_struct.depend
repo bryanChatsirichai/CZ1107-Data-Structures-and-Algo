@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609735064 source:d:\c_basic\udemy_lesson\making_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+

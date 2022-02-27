@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618211106 source:c:\ntu\data structures\assignment78\sumtoc\main.c
+	<stdio.h>
+	<stdlib.h>
+

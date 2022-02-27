@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618632774 source:d:\cz1107-data_structures\lab5_redo\q1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1618923014 source:d:\cz1107-data_structures\chapter 5 revise\lab\q1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608525720 source:d:\c_basic\apas extra\ex2_compyesalarygrade\main.c
+	<stdio.h>
+	<stdlib.h>
+

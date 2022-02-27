@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608186882 source:d:\c_basic\udemy_lesson\guess_the_num\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

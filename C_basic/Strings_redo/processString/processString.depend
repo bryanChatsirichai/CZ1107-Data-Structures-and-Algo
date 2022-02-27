@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608730137 source:d:\c_basic\strings_redo\processstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1614351668 source:d:\cz1107-data_structures\ll_revise\create_ll\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1614355041 source:d:\cz1107-data_structures\revision\ll_revise\create_ll\main.c
+	<stdio.h>
+	<stdlib.h>
+

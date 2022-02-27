@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614523051 source:d:\cz1107-data_structures\revision\stack&queue\tut\reversefirstkitems\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

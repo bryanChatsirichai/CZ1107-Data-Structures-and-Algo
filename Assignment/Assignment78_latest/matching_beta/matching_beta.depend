@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618385947 source:c:\ntu\data structures\assignment78\matching_beta\main.c
+	<stdio.h>
+	<stdlib.h>
+

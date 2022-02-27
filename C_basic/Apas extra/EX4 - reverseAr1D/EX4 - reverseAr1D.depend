@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609229695 source:d:\c_basic\apas extra\ex4 - reversear1d\main.c
+	<stdio.h>
+	<stdlib.h>
+

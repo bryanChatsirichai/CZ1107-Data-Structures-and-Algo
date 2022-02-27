@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1608782211 source:d:\c_basic\strings_redo\longeststrinar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1608782203 source:d:\c_basic\strings_redo\longeststrinar\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612712634 source:d:\cz1107-data_structures\assignment2\createstackfromlinkedlist()\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

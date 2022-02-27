@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610450563 source:d:\c_basic\recursion\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609257875 source:d:\c_basic\udemy_lesson\c_string_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

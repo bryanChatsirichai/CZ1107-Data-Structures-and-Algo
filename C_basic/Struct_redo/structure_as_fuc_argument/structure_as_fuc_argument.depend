@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609677202 source:d:\c_basic\struct_redo\structure_as_fuc_argument\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608047912 source:d:\c_basic\udemy_lesson\operators\bitwise_operator\main.c
+	<stdio.h>
+	<stdlib.h>
+

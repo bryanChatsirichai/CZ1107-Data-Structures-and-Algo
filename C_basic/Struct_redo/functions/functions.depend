@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609493411 source:d:\c_basic\struct_redo\functions\main.c
+	<stdio.h>
+	<stdlib.h>
+

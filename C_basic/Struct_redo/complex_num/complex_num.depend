@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609767711 source:d:\c_basic\struct_redo\complex_num\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

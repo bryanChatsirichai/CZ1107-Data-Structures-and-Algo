@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608521398 source:d:\c_basic\apas extra\ex1_distance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

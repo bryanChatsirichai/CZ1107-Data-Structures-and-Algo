@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609573300 source:d:\c_basic\struct_redo\employee\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

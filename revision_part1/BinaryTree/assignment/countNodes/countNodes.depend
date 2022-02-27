@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614671450 source:d:\cz1107-data_structures\revision\binarytree\assignment\countnodes\main.c
+	<stdio.h>
+	<stdlib.h>
+

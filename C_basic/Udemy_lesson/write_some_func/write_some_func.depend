@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609146456 source:d:\c_basic\udemy_lesson\write_some_func\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604392057 source:d:\c_basic\array\findminmaxstr\main.c
+	<stdio.h>
+	<string.h>
+

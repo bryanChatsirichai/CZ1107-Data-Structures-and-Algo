@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609136582 source:d:\c_basic\udemy_lesson\generate_prime_number\main.c
+	<stdio.h>
+	<stdlib.h>
+
